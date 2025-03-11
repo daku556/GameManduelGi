@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa7b2d217a9ff46409ce16fe8dbe7e79, type: 3}
+  m_Name: PlayerQuickSlot
+  m_EditorClassIdentifier: 
+  savePath: /quickslot.save
+  database: {fileID: 11400000, guid: 2dd288145d9ddfd479595de000ec65c3, type: 2}
+  size: 5
+  container:
+    items:
+    - allowedTypes: 
+      item:
+        name: 
+        id: -1
+        isConsumable: 0
+        isStack: 0
+        buffs: []
+        instantBuff: []
+      amount: 0
+    - allowedTypes: 
+      item:
+        name: 
+        id: -1
+        isConsumable: 0
+        isStack: 0
+        buffs: []
+        instantBuff: []
+      amount: 0
+    - allowedTypes: 
+      item:
+        name: 
+        id: -1
+        isConsumable: 0
+        isStack: 0
+        buffs: []
+        instantBuff: []
+      amount: 0
+    - allowedTypes: 
+      item:
+        name: 
+        id: -1
+        isConsumable: 0
+        isStack: 0
+        buffs: []
+        instantBuff: []
+      amount: 0
+    - allowedTypes: 
+      item:
+        name: 
+        id: -1
+        isConsumable: 0
+        isStack: 0
+        buffs: []
+        instantBuff: []
+      amount: 0
